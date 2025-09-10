@@ -1,14 +1,14 @@
-# 🌊 TankSense - Monitoramento de Nível de Tanques
+# TankSense - Monitoramento de Nível de Tanques
 
-O **TankSense** é um sistema desenvolvido em **Dart** para **monitorar, simular e registrar o nível de água** em tanques utilizando medições simuladas com base em um **sensor ultrassônico virtual**.  
-Ele calcula a distância, o nível de água, o percentual de ocupação e o status do tanque, exibindo tudo **em tempo real** no terminal.
+O **TankSense** é um sistema desenvolvido em **Dart** para **monitorar, simular e registrar o nível de tanque** em tanques utilizando medições simuladas com base em um **sensor ultrassônico virtual**.  
+Ele calcula a distância, o nível de armazenamento, o percentual de ocupação e o status do tanque, exibindo tudo **em tempo real** no terminal.
 
 ---
 
 ## 📌 **Funcionalidades**
 
 ✅ Simula **leituras de distância** do sensor ultrassônico  
-✅ Calcula **nível de água (cm)** com base na altura do tanque  
+✅ Calcula **nível de tanque (cm)** com base na altura do tanque  
 ✅ Calcula **percentual de ocupação (%)**  
 ✅ Define **status do tanque** (ALTO, MÉDIO ou BAIXO) com **cores no terminal**  
 ✅ Exibe os **últimos 10 registros** atualizados em tempo real  
